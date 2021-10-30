@@ -3,5 +3,5 @@ const input = document.getElementById("input");
 
 form.addEventListener("submit",function(){
   console.log(input.value);
-  
+  console.log(input.value);
 })
