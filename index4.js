@@ -18,6 +18,10 @@ function add(){
 
   ul.appendChild(li);
   input.value = "";
+  saveData();
   }
 };
 
+function saveData(){
+  
+}
